@@ -3,7 +3,6 @@ package com.patterns;
 public class Main {
 
     public static void main(String[] args) {
-
         //pass operation add class to parameter
         Context context = new Context(new OperationAdd());
         System.out.println("10 + 5 = " + context.executeStrategy(10, 5));
