@@ -65,4 +65,4 @@ If you want olny .java files you navigate like this (pattern)/src/com/patterns/ 
 
 ## Source  
 
-I [this page](https://www.tutorialspoint.com/design_pattern/) for source codes. You can find more info there.
+I use [this page](https://www.tutorialspoint.com/design_pattern/) for source codes. You can find more info there.
