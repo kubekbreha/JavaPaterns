@@ -50,7 +50,7 @@ If you want olny .java files you navigate like this (pattern)/src/com/patterns/ 
 - command
 - interpreter
 - iterator
-- mediator,
+- mediator
 - memento
 - null object
 - observer
