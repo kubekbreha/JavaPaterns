@@ -1,7 +1,7 @@
 # JavaPatterns
 
 In this project I just show some of design patterns which I learning for my exam. I upload it to git so you can benefit from this examples too.
-As you may notice not all patterns are implemented yet. You need to give me some time ;)
+As you may notice not all patterns are implemented yet. You need to give me some time ;) 
 
 ## Install
 
